@@ -1,4 +1,4 @@
-# 🚀 Projeto Integrador – Jogo Tower Defense 2D: Sistema Imunológico
+# 🚀 Projeto Integrador – Guardiões da imunidade
 
 **Ciência da Computação** – Centro Universitário Senac
 
@@ -8,13 +8,6 @@
 Este projeto é um jogo 2D desenvolvido em **Allegro** 5, no estilo **_Tower Defense_**, com o tema do **Sistema Imunológico Humano**.
 
 > “Aprenda de forma divertida e viciante defendendo o corpo humano contra ameaças biológicas.”
-
-O jogo apresenta:
-
-- Modo **História**  
-- Modo **Casual**  
-- Evolução das defesas  
-- Curiosidades educacionais sobre o sistema imunológico
 
 ---
 
